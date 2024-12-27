@@ -2,7 +2,7 @@
 Code: Genetic Algorithm for Optimization
 
 
-import random
+```import random
 
 # Genetic Algorithm settings
 POPULATION_SIZE = 100  # Number of individuals in the population
@@ -61,4 +61,4 @@ best_solution = population[0]
 print("\nBest Solution Found:")
 print(f"Numbers: {NUMBERS}")
 print(f"Selection: {best_solution}")
-print(f"Sum: {sum([n * g for n, g in zip(NUMBERS, best_solution)])}")
+print(f"Sum: {sum([n * g for n, g in zip(NUMBERS, best_solution)])}")```
