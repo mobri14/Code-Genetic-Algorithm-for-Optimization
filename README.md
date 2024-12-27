@@ -2,7 +2,7 @@
 Code: Genetic Algorithm for Optimization
 
 
-```
+```python
 import random
 
 # Genetic Algorithm settings
